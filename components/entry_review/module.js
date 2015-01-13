@@ -1,0 +1,1 @@
+angular.module("nemu.components.entryReview", [ ]);
